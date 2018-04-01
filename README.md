@@ -17,3 +17,9 @@ Users can create group events by simply listing the usernames with a "," in betw
 Users can edit and delete group events which will change or delete that event for the other members.
 
 Web Security and Validation applied including preventing XSS attacks and session hijacking attacks. 
+
+<img width="1280" alt="screen shot 2018-04-01 at 2 18 54 pm" src="https://user-images.githubusercontent.com/33170867/38176734-f4f1ce58-35b9-11e8-84b6-fe2f3cc23213.png">
+
+<img width="935" alt="screen shot 2018-04-01 at 2 19 27 pm" src="https://user-images.githubusercontent.com/33170867/38176728-d7d2005e-35b9-11e8-9212-a0c3ba7c0986.png">
+
+<img width="1280" alt="screen shot 2018-04-01 at 2 19 12 pm" src="https://user-images.githubusercontent.com/33170867/38176732-ea835aae-35b9-11e8-969f-b2c7d09e003a.png">
