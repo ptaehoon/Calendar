@@ -15,3 +15,5 @@ Users can change the theme color with a drop down.
 Users can create group events by simply listing the usernames with a "," in between each username.
 
 Users can edit and delete group events which will change or delete that event for the other members.
+
+Web Security and Validation applied including preventing XSS attacks and session hijacking attacks. 
